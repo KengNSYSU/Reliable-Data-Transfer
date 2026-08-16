@@ -42,7 +42,3 @@ This project is an implementation of a Reliable Data Transfer (RDT) protocol ove
 
 4.  **File Transfer:**
     The client will request the file from the server, and the server will send it. The client will display the progress of the download and save the file in the `client_dir/`.
-
-## Author
-
-- **B123040031**
